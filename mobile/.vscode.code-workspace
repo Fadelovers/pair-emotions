@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": ".vscode",
+			"path": "../../proj/test/.vscode"
+		},
+		{
+			"name": "pair-emotions",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
