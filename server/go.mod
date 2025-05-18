@@ -1,4 +1,4 @@
-module github.com/yourusername/pair-emotions/mobile/server
+module github.com/yourusername/pair-emotions/server
 go 1.24.1
 
 require (

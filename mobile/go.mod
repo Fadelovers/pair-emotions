@@ -1,5 +1,4 @@
 module github.com/yourusername/pair-emotions/mobile
-
 go 1.24.1
 
 require (
